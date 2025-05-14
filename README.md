@@ -4,7 +4,7 @@
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Processing-%2334a853)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Analysis-%2334a853)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Visualization-%2334a853)
-![Google Docs](https://img.shields.io/badge/GoogleDocs-Business%20Intelligence-%234285F4)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-Business%20Intelligence-%234285F4)
 ![AI-Assisted Analysis](https://img.shields.io/badge/AI-Assisted%20Analysis-%23B041FF)
 
 ## Quick Access
