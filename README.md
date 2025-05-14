@@ -1,5 +1,12 @@
 # Snack Attack Shack Challenge
 
+## Tools & Skills Used
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Processing-%2334a853)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Analysis-%2334a853)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Visualization-%2334a853)
+![Google Docs](https://img.shields.io/badge/GoogleDocs-Business%20Intelligence-%234285F4)
+![AI-Assisted Analysis](https://img.shields.io/badge/AI-Assisted%20Analysis-%23B041FF)
+
 ## Quick Access
 
 - [Dataset - Google Sheets](https://docs.google.com/spreadsheets/d/17sne5-vAbKo69kr0YPQMmApfRUFgpff48aJP6NSLnRY/edit?usp=drive_link)
